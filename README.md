@@ -9,8 +9,7 @@ This project is a password generator application built with Vite and React. It a
 ![Password Generator UI](https://github.com/askgurdit/Password-Generator-using-Vite-React/assets/118066728/5fcf5f3b-8887-44b3-84e3-6cd340ff925e)
 
 - Video Demonstration: 
-https://github.com/askgurdit/Password-Generator-using-Vite-React/assets/118066728/02f3e46f-c72b-4206-8220-8f94cbd315c5
-
+https://github.com/askgurdit/Password-Generator-using-Vite-React/assets/118066728/cd3f1085-f4fd-443e-b5de-1461a8bb28bc
 
 ## Project Details
 GitHub URL: [Password Generator GitHub](https://github.com/askgurdit/Password-Generator-using-Vite-React)
